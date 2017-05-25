@@ -1,0 +1,36 @@
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+    <modelVersion>4.0.0</modelVersion>
+
+    <groupId>com.xian</groupId>
+    <artifactId>xian</artifactId>
+    <version>1.0.0</version>
+    <packaging>pom</packaging>
+
+    <name>xian</name>
+
+    <properties>
+        <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
+
+        <maven.compiler.source>1.7</maven.compiler.source>
+        <maven.compiler.target>1.7</maven.compiler.target>
+        <maven.compiler.compilerVersion>1.7</maven.compiler.compilerVersion>
+    </properties>
+
+    <modules>
+        <module>xian-admin</module>
+        <module>xian-common</module>
+        <module>xian-oss</module>
+        <module>xian-upms</module>
+        <module>xian-cms</module>
+        <module>xian-pay</module>
+        <module>xian-ucenter</module>
+        <module>xian-wechat</module>
+        <module>xian-shop</module>
+        <module>xian-im</module>
+        <module>xian-oa</module>
+        <module>xian-eoms</module>
+        <module>xian-api</module>
+        <module>xian-demo</module>
+    </modules>
+</project>
