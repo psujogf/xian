@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="xian-admin" />
+        <module name="xian-api" />
+        <module name="xian-cms" />
+        <module name="xian-common" />
+        <module name="xian-demo" />
+        <module name="xian-eoms" />
+        <module name="xian-im" />
+        <module name="xian-oa" />
+        <module name="xian-oss" />
+        <module name="xian-pay" />
+        <module name="xian-shop" />
+        <module name="xian-ucenter" />
+        <module name="xian-upms" />
+        <module name="xian-wechat" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="xian-admin" target="1.5" />
+      <module name="xian-api" target="1.5" />
+      <module name="xian-cms" target="1.5" />
+      <module name="xian-common" target="1.7" />
+      <module name="xian-demo" target="1.5" />
+      <module name="xian-eoms" target="1.5" />
+      <module name="xian-im" target="1.5" />
+      <module name="xian-oa" target="1.5" />
+      <module name="xian-oss" target="1.5" />
+      <module name="xian-pay" target="1.5" />
+      <module name="xian-shop" target="1.5" />
+      <module name="xian-ucenter" target="1.5" />
+      <module name="xian-upms" target="1.5" />
+      <module name="xian-wechat" target="1.5" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
